@@ -1,0 +1,8 @@
+api links
+Data	URL
+National time series, statewise stats and test counts	https://api.nepalcovid19.org/data.json
+State-district-wise	https://api.nepalcovid19.org/state_district_wise.json
+State-district-wise V2	https://api.nepalcovid19.org/v2/state_district_wise.json
+Travel history	https://api.nepalcovid19.org/travel_history.json
+Raw data	https://api.nepalcovid19.org/raw_data.json
+States Daily changes	https://api.nepalcovid19.org/states_daily.json
